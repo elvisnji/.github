@@ -36,7 +36,7 @@ assignees: ''
 ## Tasks
 (To be completed by the developer when the issue is taken (or assigned) from ready-to-work.)
 
-[Why do we need to add tasks?](https://docs.google.com/document/d/17qiWRxf1BD_pN-_KbPnHc-3mZ0QyuddC0Bk_yFWBLOk/edit?ts=5cb4cb74)
+[Why do we need to add tasks?](https://healthlabs.slab.com/posts/tasking-stories-z7lh2l1w)
 
 - [ ] [Task 1]
 - [ ] [Task 2]
