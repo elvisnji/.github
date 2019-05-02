@@ -1,14 +1,7 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## Business Value
-<What value does it give the customer or business>
+[Want to read more on Types of Business Value?](https://docs.google.com/spreadsheets/d/1Bvcam238-mvESbTmEgLjkR0Dhrb9TmP4aQ7b3st8pMc/edit#gid=0)
+
+<Type business value here! >
 
 ## Story
 **As a**  [ type of user ],
@@ -16,19 +9,13 @@ assignees: ''
 **so that** [ some reason ]
 
 ## Acceptance Criteria
-<At least one example to illustrate each business Rule/Acceptance Criterion. Ideally, a Happy path and Sad path for each>
+*Hint: These are rules based on the behavior of the system's functionality.*
 
-- [ ] Given Condition 1
-  - When Event 1 Then Outcome 1
-  - When Event 2 Then Outcome 2
+- [ ] Rule 1
 
-- [ ] Given Condition 2
-  - When Event 1 Then Outcome 1
-  - When Event 2 Then Outcome 2
+- [ ] Rule 2
 
-- [ ] Given Condition 3
-  - When Event 1 Then Outcome 1
-  - When Event 2 Then Outcome 2
+- [ ] Rule 3
 
 ## Notes
 <Document any additional details about the feature>
