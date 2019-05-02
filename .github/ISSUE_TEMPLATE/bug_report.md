@@ -1,41 +1,53 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+## Business Value:
+[Want to read more on Types of Business Value?](https://docs.google.com/spreadsheets/d/1Bvcam238-mvESbTmEgLjkR0Dhrb9TmP4aQ7b3st8pMc/edit#gid=0)
 
----
+<Type business value here! >
 
-## Describe the bug
-A clear and concise description of what the bug is.
+## Story:
 
-## To Reproduce
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. Press button '...'
+**As a**  [ type of user ],
+**I want** [ some goal ]
+**so that** [ some reason ]
 
-## Expected behavior
-A clear and concise description of what you expected to happen.
 
-## Actual behavior
-A clear and concise description of what actually happened.
+# Scenario-oriented Acceptance Criteria:
 
-## Screenshots
-If applicable, add screenshots to help explain your problem.
+```gherkin
+Scenario: the name for the behavior that will be described or Happy, Sad and Bad Path.
 
-## Desktop (please complete the following information):
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+  Given the beginning state of the scenario 1
+  
+  When Event 1 for specific action that the user makes
+  Then Outcome 1 for the action in “When”
+  
+  When Event 2 for specific action that the user makes
+  Then Outcome 2 for the action in “When”
 
-## Smartphone (please complete the following information):
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+Scenario: the name for the behavior that will be described or Happy, Sad and Bad Path.
 
-## Additional context
-Add any other context about the problem here.
+  Given the beginning state of the scenario 2
+  
+  When Event 1 for specific action that the user makes
+  Then Outcome 1 for the action in “When”
+  
+  When Event 2 for specific action that the user makes
+  Then Outcome 2 for the action in “When”
+```
+
+# Story Notes:
+
+| Heading 1 | Heading 2 | Heading 3 |
+|-----------|-----------|-----------|
+| Content1  | Content2  | Content2  |
+
+# Tasks:
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+# Task Notes:
+
+| Heading 1 | Heading 2 | Heading 3 |
+|-----------|-----------|-----------|
+| Content1  | Content2  | Content2  |
